@@ -1,6 +1,6 @@
 {
   "name": "mix-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue前端UI框架",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/aui-js/mix-view/issues"
   },
+  "private": false,
   "homepage": "https://github.com/aui-js/mix-view#readme"
 }
