@@ -1,6 +1,6 @@
 {
   "name": "mix-view",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "vue前端UI框架",
   "main": "index.js",
   "scripts": {
