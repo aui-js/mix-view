@@ -1,0 +1,22 @@
+{
+  "name": "mix-view",
+  "version": "1.0.0",
+  "description": "vue前端UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aui-js/mix-view.git"
+  },
+  "keywords": [
+    "min-ui前端UI框架"
+  ],
+  "author": "aui-js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aui-js/mix-view/issues"
+  },
+  "homepage": "https://github.com/aui-js/mix-view#readme"
+}
